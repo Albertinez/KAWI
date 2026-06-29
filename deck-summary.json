@@ -1,0 +1,436 @@
+{
+  "slides": [
+    {
+      "slide": 1,
+      "text": [
+        "KAWI",
+        "METRICS TECHNOLOGIES"
+      ]
+    },
+    {
+      "slide": 2,
+      "text": [
+        "PROBLEM STATEMENT",
+        "74% of industrial heat still comes from fossil fuels",
+        "The cost of battery storage per KWh is currently $200-$500",
+        "The Worl",
+        "d Has a Storage Problem",
+        "Renewables",
+        "are intermittent. Batteries are expensive. Industrial heat needs a better solution."
+      ]
+    },
+    {
+      "slide": 3,
+      "text": [
+        "THE SOLUTION",
+        "HARNESSING THE “DIRT”",
+        "ABUNDANT QUARTZ SAND – COSTS NEARLY NOTHING",
+        "CARBON NANOTUBES",
+        "SAFE OPERATION BELOW 450°C – NO PHASE TRANSITION DAMAGE",
+        "COST",
+        "MEET THE SAND BATTERY",
+        "Estimate",
+        "d cost: $15-30 per kWh – up to 90% cheaper than lithium batteries"
+      ]
+    },
+    {
+      "slide": 4,
+      "text": [
+        "HOW IT WORKS",
+        "6-STEP PROCESS",
+        "SIEVE SAND",
+        "Dry at 110°C",
+        "Mix with",
+        "CNT",
+        "Pack into insulated vessel",
+        "Heat to 430°C",
+        "Store or discharge heat",
+        "No moving",
+        "parts. No toxic materials. No complex chemistry."
+      ]
+    },
+    {
+      "slide": 5,
+      "text": [
+        "WHAT WE ACHIEVED",
+        "6.4× BETTER HEAT TRANSFER",
+        "PEAK TEMPERATURE REACHED",
+        "SAFELY BELOW 573°C LIMIT",
+        "430.1°C",
+        "HEATING RATE",
+        "4.69°C/MIN",
+        "AVERAGE COOLING RATE",
+        "STAYS HOT FOR HOURS",
+        "0.157°C/MIN",
+        "THERMAL DIFFUSIVITY VS PURE SAND",
+        "6.4× HIGHER",
+        "5.3 HOURS",
+        "STILL USEFUL AT 65°C"
+      ]
+    },
+    {
+      "slide": 6,
+      "text": [
+        "TEA PROCESSING",
+        "-NEEDS DRYING AND STEAM",
+        "MANUFACTURING",
+        "-NEEDS AFFORDABLE THERMAL ENERGY",
+        "KENYA'S INDUSTRIAL HEAT PROBLEM",
+        "WHY KENYA NEEDS THIS",
+        "GIGGLING PLATYPUS CO.",
+        "Electricity prices in",
+        "Kenya rose sharply in 2021-2022",
+        "Vision 2030 targets renewable energy expansion",
+        "No affordable long-duration storage exists today"
+      ]
+    },
+    {
+      "slide": 7,
+      "text": [
+        "THE RENEWABLE ACHILLES HEEL",
+        "WHY THE WORLD NEEDS THIS",
+        "The",
+        "biggest problem with renewable energy is that the sun does not always shine for solar and the wind does not always blow for wind.",
+        "SOLUTION",
+        "Use the excess energy to create heat then store it in the sand battery for later use",
+        "WHY NOT JUST USE A BATTERY?",
+        "1.COST-at $500 per Kwh",
+        "2.VOLATILITY-batteries are highly flammable and spontaneously combust",
+        "3.DEGRADATION-5% capacity loss per year"
+      ]
+    },
+    {
+      "slide": 8,
+      "text": [
+        "WE",
+        "BUILT IT. IT WORKS.",
+        "Prototype",
+        "designed & fabricated.",
+        "430.1°C achieved – within safe operating limit.",
+        "No material degradation after thermal cycling.",
+        "Thermal model validated – 6.4× diffusivity improvement.",
+        "Ready for 500+ cycle durability testing.",
+        "Seeking industrial pilot partner (cement, tea, or manufacturing)"
+      ]
+    },
+    {
+      "slide": 9,
+      "text": [
+        "WHY SAND WINS",
+        "Lithium Batteries",
+        "Molten Salt",
+        "Quartz Sand",
+        "Cost/KWh",
+        "$200-500",
+        "$50-100",
+        "$15-30",
+        "Materials",
+        "Lithium, cobalt",
+        "Nitrates, corrosive",
+        "Sand + carbon nanotubes",
+        "Safety",
+        "Fire risk",
+        "Freezing risk(Must Stay above 110°C)",
+        "Non-toxic, stable(under 573°C)",
+        "Kenyan Local?",
+        "No",
+        "No",
+        "Yes-Abundant"
+      ]
+    },
+    {
+      "slide": 10,
+      "text": [
+        "IT IS ALIGNED WITH GLOBAL PRIORITI",
+        "ES",
+        "⚡",
+        "SDG 7",
+        "Affordable & Clean Energy",
+        "🏭 SDG 9",
+        "Industry & Innovation",
+        "♻️",
+        "SDG 12",
+        "Responsible Consumption",
+        "🌍",
+        "SDG 13",
+        "Climate Action",
+        "SUST",
+        "AINABLE DEVELOPMENT GOALS",
+        "En",
+        "ables renewable energy integration",
+        "Uses locally available sand + CNT",
+        "Reduces CO₂ from industrial heating"
+      ]
+    },
+    {
+      "slide": 11,
+      "text": [
+        "GO-TO-MARK",
+        "ET PATHWAYS",
+        "INDUSTRIAL",
+        "POWER GENERATION",
+        "Tea Factories",
+        "Agro-processing",
+        "Concentrated Power Plants",
+        "Wind Power"
+      ]
+    },
+    {
+      "slide": 12,
+      "text": [
+        "FROM LAB TO MARKET",
+        "PH",
+        "ASE 1 – PROVE",
+        "Complete",
+        "Lab Prototype",
+        "Thermal Validation",
+        "Material Integrity",
+        "🔄 PH",
+        "ASE 2 – PILOT",
+        "🚀 PH",
+        "ASE 3 – SCALE",
+        "12-18",
+        "months",
+        "larger pilot (100-1000 kg)",
+        "Industrial partner",
+        "500+ cycle durability data",
+        "2-4",
+        "years",
+        "Commercial modular units",
+        "1-10 ton sand capacity",
+        "Country wide expansion"
+      ]
+    },
+    {
+      "slide": 13,
+      "text": [
+        "PRACTICAL MARKET APPLICATIONS",
+        "From",
+        "Industrial Heat to Rural Livelihoods"
+      ]
+    },
+    {
+      "slide": 14,
+      "text": [
+        "SOLAR PANEL HEATING",
+        "The sand battery can substitute petroleum products heating(kerosene,diesel,charcoal) and use green energy(solar) as primary heating source. Heated water is required in the hospitality(restaurants ,hotels) , learning institutions(Boarding schools, Universities) and Hospitals.",
+        "For showering,sterilization,cooking e.t.c.",
+        "WATER HEATING",
+        "01"
+      ]
+    },
+    {
+      "slide": 15,
+      "text": [
+        "HOTELS,SCHOOLS AND HOSPITALS",
+        "Hotel",
+        "s need constant hot water – for showers, laundry, kitchens, and swimming pools. Most hotels use electric water heaters or diesel boilers.",
+        "01",
+        "Boarding school",
+        "s need hot water for hundreds of students. Kitchens need hot water for cooking and washing. Sanitation requires warm water for showers and cleaning. But schools operate on tight budgets.",
+        "Hospital",
+        "s need hot water 24 hours a day, 7 days a week. Laundry must be sanitized. Surgical instruments must be sterilized. Patients need warm water for hygiene. And the hot water cannot stop – ever.For hospitals there cannot be disruptions in the water supply so this can also act as backup.",
+        "Heating/charging is done during the day.At night when hot water is needed its withdrawn after passing through the heat exchangers for use."
+      ]
+    },
+    {
+      "slide": 16,
+      "text": [
+        "The sand battery provides hot air in a wide temperature range. For drying fish and fruits 50-70 degrees. Green house heating 20-35 degrees. Poultry brooding or incubating 35 degrees. Agricultural drying 60-150 degrees for maize,coffee,tea e.t.c.",
+        "AIR HEATING",
+        "02"
+      ]
+    },
+    {
+      "slide": 17,
+      "text": [
+        "GREENHOUSES,POULTRY & AGRICULTURAL DRYING",
+        "Greenhouse",
+        "s need stable temperatures for optimal plant growth. At night, temperatures drop – damaging tomatoes, peppers, roses, and vegetables. Too cold means stunted growth, low yields, and crop loss.",
+        "01",
+        "Day-old chick",
+        "s need constant warmth – 35 degrees Celsius for the first week. If the temperature drops, chicks stress, get sick, or die. Even a few hours of cold can kill hundreds of chicks.",
+        "Maize mold",
+        "s in the field. Coffee is sun-dried for days – then rain ruins it. Tea factories spend millions drying leaves with diesel.",
+        "Open sun drying is slow and unreliable.",
+        "Heating/charging is done during the day.At night when hot air is needed its withdrawn after passing through the heat exchangers for use.",
+        "Our",
+        "sand battery dries fish in 24 hours – regardless of weather. No rain. No dust. No insects. The fish is hygienic and dries faster than sun dried fish."
+      ]
+    },
+    {
+      "slide": 18,
+      "text": [
+        "WHY NOT JUST STORE THE ELECTRICITY AND USE IT TO HEAT AIR/WATER?",
+        "T",
+        "rack KPIs like sales conversion average order value retention lifetime value inventory turnover fulfillment and return rates today.",
+        "01",
+        "A 12 ton sand truck costs 20-30,000",
+        "A battery to power home appliances will cost upwards of 50,000 shillings",
+        "Cost",
+        "02",
+        "electricity → Ba",
+        "ttery → electric",
+        "ity → heat is less efficient than electricity → heat",
+        "Ro",
+        "und-trip Efficiency",
+        "03",
+        "Batteries lose capacity on average of 2-3% per year.",
+        "Batt",
+        "ery Degradation"
+      ]
+    },
+    {
+      "slide": 19,
+      "text": [
+        "CONCENTRATED SOLAR HEATING",
+        "Concentrated Solar Power (CSP) plants collect solar heat during the day – but without storage, they shut down at sunset. Today, most CSP plants use molten salt to store heat – but molten salt is expensive, corrosive, and freezes below 120°C. Our sand battery is a drop-in replacement: cheaper, safer, and more reliable. It stores heat at up to 450°C and delivers it when the sun isn't shining – generating steam for turbines during peak hours acting like a battery. In this case the molten salt acts as the working fluid. Oil can be used as the substitute to prevent cases of freezing.Sand is abundant, non-toxic, and costs a fraction of molten salt.",
+        "POWER GENERATION",
+        "01"
+      ]
+    },
+    {
+      "slide": 20,
+      "text": [
+        "ELECTRIC GRID SUPPLY,PEAK LOAD MANAGEMENT,DATA CENTERS.",
+        "CSP i",
+        "s underutilized because it's intermittent. Our sand battery makes CSP dispatchable – 24-hour renewable power at a fraction of the cost of batteries or diesel. Grid operators get reliable baseload power. Peak demand is met with clean energy. Data centers achieve 100% renewable operation."
+      ]
+    },
+    {
+      "slide": 21,
+      "text": [
+        "Our sand battery is the perfect partner for Concentrated Solar Power in industrial heating. CSP mirrors concentrate sunlight to heat sand to 450°C – storing enough thermal energy to power factories 24 hours a day. No diesel. No electricity. Just free, abundant sunlight stored in sand. Cement plants can preheat raw materials overnight. Tea factories can dry leaves with solar heat around the clock. Dairy processors can pasteurize milk using clean, stored solar energy.Meat processers like Kenya Meat Commission dry meat for packaging. The result: industries eliminate emissions, and gain energy independence.",
+        "INDUSTRIAL HEATING",
+        "02"
+      ]
+    },
+    {
+      "slide": 22,
+      "text": [
+        "MILK,MEAT & MACHINERY"
+      ]
+    },
+    {
+      "slide": 23,
+      "text": [
+        "Renewable energy sources – solar and wind – are intermittent. The sun doesn't shine at night. The wind doesn't always blow. To build a 100% renewable grid, we need long-duration energy storage (LDES) – and our sand battery is a solution.",
+        "RENEWABLE STORAGE",
+        "03"
+      ]
+    },
+    {
+      "slide": 24,
+      "text": [
+        "WIND AND SOLAR",
+        "Our sand battery is the missing link for renewable energy. When",
+        "solar farms produce more power than the grid needs, we convert that excess electricity into heat and store it in sand at 450°C. When wind turbines spin at , we capture that power and store it. When the grid needs electricity – during peak hours or when the sun isn't shining – we convert stored heat back to power. Sand stores energy for days or weeks, at 90% lower cost than lithium batteries, with zero degradation over years. This is how we build a 100% renewable grid – not with expensive batteries, but with abundant, low-cost sand.",
+        "01",
+        "Heating/charging is done during the day. At night when power is needed steam is generated."
+      ]
+    },
+    {
+      "slide": 25,
+      "text": [
+        "01",
+        "Determines the viability of the bank.",
+        "Set up cost must also be reasonable.",
+        "Cost",
+        "02",
+        "Both in design,maintenance and selling to customer.",
+        "Simplicity",
+        "KEY AREAS",
+        "03",
+        "Simple fabrication.",
+        "Locally made materials",
+        "Scalability"
+      ]
+    },
+    {
+      "slide": 26,
+      "text": [
+        "THE TEAM",
+        "NESTER ISOGOL",
+        "FRANCIS MULWA",
+        "Operations Lead",
+        "Technical Lead"
+      ]
+    }
+  ],
+  "media": [
+    "image1.jpeg",
+    "image2.png",
+    "image3.svg",
+    "image4.jpeg",
+    "image5.jpeg",
+    "image6.png",
+    "image7.svg",
+    "image8.png",
+    "image9.jpeg",
+    "image10.png",
+    "image11.svg",
+    "image12.png",
+    "image13.svg",
+    "image14.png",
+    "image15.svg",
+    "image16.jpeg",
+    "image17.png",
+    "image18.svg",
+    "image19.png",
+    "image20.svg",
+    "image21.png",
+    "image22.svg",
+    "image23.png",
+    "image24.svg",
+    "image25.png",
+    "image26.svg",
+    "image27.png",
+    "image28.svg",
+    "image29.jpeg",
+    "image30.png",
+    "image31.png",
+    "image32.png",
+    "image33.jpeg",
+    "image34.jpeg",
+    "image35.jpeg",
+    "image36.jpeg",
+    "image37.jpeg",
+    "image38.png",
+    "image39.jpeg",
+    "image40.jpeg",
+    "image41.png",
+    "image42.svg",
+    "image43.jpeg",
+    "image44.jpeg",
+    "image45.png",
+    "image46.svg",
+    "image47.png",
+    "image48.png",
+    "image49.svg",
+    "image50.jpeg",
+    "image51.png",
+    "image52.svg",
+    "image53.png",
+    "image54.svg",
+    "image55.jpeg",
+    "image56.jpeg",
+    "image57.jpeg",
+    "image58.jpeg",
+    "image59.jpeg",
+    "image60.jpeg",
+    "image61.jpeg",
+    "image62.jpeg",
+    "image63.jpeg",
+    "image64.jpeg",
+    "image65.png",
+    "image66.svg",
+    "image67.jpeg",
+    "image68.jpeg",
+    "image69.jpeg",
+    "image70.jpeg",
+    "image71.jpeg",
+    "image72.jpeg",
+    "image73.jpeg",
+    "image74.jpeg"
+  ]
+}
